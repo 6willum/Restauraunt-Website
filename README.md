@@ -5,8 +5,6 @@ Images used:
 ![image](https://github.com/user-attachments/assets/21dc00d9-2cc8-45cf-b377-0c07a049ca1e)
 ![image](https://github.com/user-attachments/assets/ae69bf8c-13b8-435b-b97c-8b601779d3c0)
 ![image](https://github.com/user-attachments/assets/8af58c67-53a0-4505-a4c8-3f0b25b55c50)
-![image](https://github.com/user-attachments/assets/5c314d6e-4aa6-41bb-abfa-779cc79c966e)
-![image](https://github.com/user-attachments/assets/f0f99f12-5977-4493-989c-4d3ce40ee043)
 ![image](https://github.com/user-attachments/assets/f13209e0-a706-4761-998b-f153f63cb28e)
 ![image](https://github.com/user-attachments/assets/4f371742-d765-484c-8f3d-65cc559b2e4f)
 ![image](https://github.com/user-attachments/assets/8c189459-b82c-45b5-ae0e-424f306f05b4)
