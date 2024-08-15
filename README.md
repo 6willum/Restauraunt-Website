@@ -8,7 +8,7 @@ Images used:
 ![image](https://github.com/user-attachments/assets/f13209e0-a706-4761-998b-f153f63cb28e)
 ![image](https://github.com/user-attachments/assets/4f371742-d765-484c-8f3d-65cc559b2e4f)
 ![image](https://github.com/user-attachments/assets/8c189459-b82c-45b5-ae0e-424f306f05b4)
-
+![image](https://images-na.ssl-images-amazon.com/images/I/B1CoKfSOJLS.jpg)
 
 I used guides from:
 - https://codewithcurious.com/projects/responsive-restaurant-website-using-html-css-javascript/
