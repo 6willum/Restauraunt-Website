@@ -11,6 +11,7 @@ Images used:
 ![image](https://images-na.ssl-images-amazon.com/images/I/B1CoKfSOJLS.jpg)
 
 I used guides from:
+- https://www.infoworld.com/article/2169473/using-javascript-and-forms.html
 - https://codewithcurious.com/projects/responsive-restaurant-website-using-html-css-javascript/
 - https://www.w3schools.com/howto/howto_website_restaurant.asp
 - https://www.youtube.com/watch?v=Bzwlt3qf1dM
