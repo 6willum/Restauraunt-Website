@@ -13,8 +13,8 @@ Images used:
 
 
 I used guides from:
-https://codewithcurious.com/projects/responsive-restaurant-website-using-html-css-javascript/
-https://www.w3schools.com/howto/howto_website_restaurant.asp
-https://www.youtube.com/watch?v=Bzwlt3qf1dM
+- https://codewithcurious.com/projects/responsive-restaurant-website-using-html-css-javascript/
+- https://www.w3schools.com/howto/howto_website_restaurant.asp
+- https://www.youtube.com/watch?v=Bzwlt3qf1dM
 
 My website is restauraunt themed and has a form to fill out at the bottom where customers can submit their information as a contact.
